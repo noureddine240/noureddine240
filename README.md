@@ -1,6 +1,6 @@
 <html>
 <Head>
-<title>HI</titile>
+<titile>HI</titile>
 </head>
 <body>
 <H1>Hello Yal Gay</H1>
